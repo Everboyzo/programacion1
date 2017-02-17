@@ -5,6 +5,7 @@ byte var_byte = 127;
 short var_short = 32767;
 int var_int = 2147483647;
 long var_long = 9223372036854775807l;
+
 char var_char = '2';
 String var_string = null;
 String var_string2 = "Hola java";
